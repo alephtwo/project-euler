@@ -2,3 +2,6 @@ name = "ProjectEuler"
 uuid = "19b6650f-6dca-4f9a-8bfb-f3ae68f00af5"
 authors = ["Ben Christianson <thhuntertgm@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
