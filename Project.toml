@@ -1,0 +1,4 @@
+name = "ProjectEuler"
+uuid = "19b6650f-6dca-4f9a-8bfb-f3ae68f00af5"
+authors = ["Ben Christianson <thhuntertgm@gmail.com>"]
+version = "0.1.0"
